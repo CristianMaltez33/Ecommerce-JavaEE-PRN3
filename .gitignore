@@ -1,0 +1,2 @@
+# Carpetas de dependencias
+target/       # Carpeta para archivos compilados de Maven (usa `target` en vez de `bin` o `build`)
